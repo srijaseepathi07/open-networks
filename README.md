@@ -6,7 +6,7 @@ This project demonstrates how to use Nmap to scan a network and gather essential
 
 🛠️ Active services running on those ports
 
-📦 Service versions and OS information
+ Service versions and OS information
 
 ⚠️ Potential security vulnerabilities
 
